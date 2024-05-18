@@ -17,7 +17,7 @@
     },
     "require-dev": {
         "mockery/mockery": "*",
-        "phpunit/phpunit": "^*",
+        "phpunit/phpunit": "*",
         "orchestra/testbench": "*",
         "spatie/phpunit-snapshot-assertions": "*"
     },
