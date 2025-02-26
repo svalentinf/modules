@@ -13,7 +13,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.2|^8",
-        "illuminate/support": "^6|^7|^8|^9|^10|^11"
+        "illuminate/support": "^6|^7|^8|^9|^10|^11|^12"
     },
     "require-dev": {
         "mockery/mockery": "*",
